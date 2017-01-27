@@ -1,0 +1,23 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "LIRI is a Node.js application that display your latest tweets.",
+  "main": "keys.js",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike092235/liri-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mike092235/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/mike092235/liri-node-app#readme"
+}
