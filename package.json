@@ -1,9 +1,10 @@
 {
-  "name": "twitter",
+  "name": "spotify",
   "version": "1.0.0",
   "description": "LIRI is a Node.js application that display your latest tweets.",
   "main": "keys.js",
   "dependencies": {
+    "request": "^2.79.0",
     "twitter": "^1.7.0"
   },
   "devDependencies": {},
