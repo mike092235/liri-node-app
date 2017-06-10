@@ -25,7 +25,7 @@ var getMyTweets = function() {
 var getArtistNames = function(artist) {
   return artist.name;
 }
-
+// hit Spotify API
 var getMeSpotify = function(songName) {
  
   spotify.search({ type: 'track', query: 'dancing in the moonlight' }, function(err, data) {
